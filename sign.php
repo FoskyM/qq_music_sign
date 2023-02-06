@@ -1,6 +1,6 @@
 <?php
 /**
- * @author MOUSE123S <i@mouse123.cn>
+ * @author FoskyM <i@mouse123.cn>
  * @time <2022-12-21 10:43>
  */
 
